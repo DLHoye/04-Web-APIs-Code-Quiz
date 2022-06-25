@@ -4,6 +4,6 @@ The quiz will let you know if you correct or incorrect. Keep tying until you get
 
 When you've had your fill, you can check out all of your high scores.
 
-https://dlhoye.github.io/04-Web-APIs-Code-Quiz/
+https://dlhoye.github.io/04-Web-APIs-Code-Quiz
 
 <img src="Assets\VeryShort.JPG">
