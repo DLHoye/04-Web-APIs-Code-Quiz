@@ -6,4 +6,4 @@ When you've had your fill, you can check out all of your high scores.
 
 https://dlhoye.github.io/04-Web-APIs-Code-Quiz/
 
-<img src="Assets\VeryShort.JPG">
+<img src="./assets/images/VeryShort.jpg">
